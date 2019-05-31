@@ -13,15 +13,7 @@ material and aren't essential to the playthrough of the game. They are simply th
 for "flashiness", more impressive UID and improved user experience. This issue will
 be fixed shortly.
 
-Most of the content is archived files of the previous versions of this program.
-The only files worth looking at otherwise are "Execute_NLS_In_Full.zip", which you
-should download if you want to experience the sound design I implemented,
-the "National_Lottery_Simulation.exe" file, which you can download if you don't pay
-the sound design any heed (make sure to turn it off before playing!) and
-if you only want to execute the programme, and the "Download_To_View_Code.zip" file,
-which would be useful if you want to have to have an in-depth look at the code.
-All of the .cs and .Designer.cs files also deserve a special mention, as they keep track
-of my updates on the code. They're located in the "WindowsFormsApplication1" folder.
+"Execute_NLS_In_Full.zip" is what is necessary to download if you want to have an in-depth look at the code and  experience the sound design I implemented and the "National_Lottery_Simulation.exe" file is needed if you don't pay the sound design any heed (make sure to turn it off before playing!) and if you only want to execute the programme.
 
 Copyright © Valeria Daneva and Magdalena Lungolova
 
